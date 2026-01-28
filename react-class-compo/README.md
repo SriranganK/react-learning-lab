@@ -170,6 +170,7 @@ componentWillUnmount
 
 ## 📊 Timeline Visualization
 
+```txt 
 Button Click
 ↓
 setState
@@ -179,3 +180,4 @@ render()      ← build new virtual DOM
 DOM patch
 ↓
 componentDidUpdate()
+```
